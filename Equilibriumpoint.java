@@ -21,7 +21,7 @@ public class Equilibriumpoint {
 
 
         }
-        if (bool == 10) {
+        if (bool == 1) {
 
             System.out.println("not equilibrium");
 
